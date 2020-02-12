@@ -9,5 +9,11 @@
             "email": "1399280235@qq.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
