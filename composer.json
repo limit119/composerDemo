@@ -1,0 +1,13 @@
+{
+    "name": "limit119/composerdemo",
+    "description": "houdun composer exercise",
+    "type": "project",
+    "license": "mit",
+    "authors": [
+        {
+            "name": "ly",
+            "email": "1399280235@qq.com"
+        }
+    ],
+    "require": {}
+}
