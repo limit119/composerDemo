@@ -9,11 +9,22 @@
             "email": "1399280235@qq.com"
         }
     ],
-    "require": {},
+    "require": {
+        "gregwar/captcha": "^1.1"
+    },
     "repositories": {
         "packagist": {
             "type": "composer",
             "url": "https://packagist.phpcomposer.com"
+        }
+    },
+    "autoload": {
+        "files": [
+            "core/Tools.php"
+        ],
+        "psr-4": {
+            "core\\": "core",
+            "web\\": "web"
         }
     }
 }
